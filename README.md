@@ -1,17 +1,12 @@
-# example config webpack in next js
+# Config webpack in next js with SemanticUI
 
 ```
+#Dev mode
 npm install
-```
-```
 npm run dev 
-```
 
-or
-```
+#Production
 npm run build
-```
-```
 npm start
 ```
 
